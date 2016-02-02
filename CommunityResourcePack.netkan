@@ -1,0 +1,21 @@
+{
+	"spec_version"		: 1,
+	"identifier"		: "CommunityResourcePack",
+	"author"			: "RoverDude",
+	"$kref"				: "#/ckan/github/BobPalmer/CommunityResourcePack",
+	"$vref"				: "#/ckan/ksp-avc",
+	"name"				: "Community Resource Pack",
+	"abstract"			: "Common resources for KSP mods",
+	"license"			: "CC-BY-NC-SA-4.0",
+	"release_status"	: "stable",
+	"resources" : {
+		"homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/83007-105"
+	},
+	"install" : [
+		{
+			"file": "GameData/CommunityResourcePack",
+			"install_to": "GameData"
+		}
+	],
+	"x_last_revision_by": "harryyoung"
+}

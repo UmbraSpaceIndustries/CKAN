@@ -1,0 +1,24 @@
+{
+	"spec_version"		: 1,
+	"identifier"		: "SoundingRockets",
+	"author"			: "RoverDude",
+	"$kref"				: "#/ckan/github/BobPalmer/SoundingRockets",
+	"$vref"				: "#/ckan/ksp-avc",
+	"name"				: "Sounding Rockets!",
+	"abstract"			: "Adds a series of low tech sounding rockets to the 'start' node.",
+	"license"			: "CC-BY-NC-SA-4.0",
+	"release_status"	: "stable",
+	"resources": {
+		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92434-105",
+	},
+	"depends": [
+		{ "name": "USITools" }
+	],
+	"install": [
+	{
+		"file": "GameData/UmbraSpaceIndustries",
+		"install_to": "GameData"
+	}
+	],
+	"x_last_revision_by": "harryyoung"
+}
