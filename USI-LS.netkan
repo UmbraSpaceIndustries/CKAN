@@ -12,6 +12,7 @@
 		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/105202-105"
 	},
 	"depends" : [
+		{ "name": "USITools" },
 		{
 			"name": "ModuleManager",
 			"min_version": "2.5.1"
