@@ -21,6 +21,9 @@
 	],
 	"comment" : "This may be renamed to USI-KarbonitePlus in the future",
 	"provides" : [ "USI-KarbonitePlus" ],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
 	"install" : [
 		{
 			"find"	   : "UmbraSpaceIndustries/KarbonitePlus",

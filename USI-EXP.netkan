@@ -29,6 +29,9 @@
 			"min_version": "0.2.3"
 		}
 	],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
 	"install" : [
 		{
 			"find"	   : "UmbraSpaceIndustries/ExpPack",

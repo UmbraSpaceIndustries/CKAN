@@ -49,15 +49,10 @@
 		}
 	],
 	"conflicts" : [
-		{
-			"name": "MKS"
-		},
-		{
-			"name": "OKS"
-		},
-		{
-			"name": "USI-MKSLite"
-		}
+		{ "name": "MKS"	},
+		{ "name": "OKS" },
+		{ "name": "USI-MKSLite"	},
+		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install" : [
 		{

@@ -15,6 +15,9 @@
 		{ "name": "USITools" },
 		{ "name": "CommunityResourcePack" }
 	],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
 	"install": [
 		{
 			"find"	   : "UmbraSpaceIndustries/SubPack",

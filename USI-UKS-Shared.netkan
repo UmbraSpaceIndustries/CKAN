@@ -32,6 +32,9 @@
 			"name": "USI-Core"
 		}
 	],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
 	"install" : [
 		{
 			"find"	   : "UmbraSpaceIndustries/Kolonization",
