@@ -12,7 +12,7 @@
 		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90899-105",
 	},
 	"conflicts" : [
-		{ "name": "SETI-CommunityTechTree" }
+		{ "name": "SETI-CTT" }
 	],
 	"install": [
 		{

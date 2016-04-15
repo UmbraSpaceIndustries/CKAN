@@ -16,7 +16,7 @@
 		{ "name": "USI-Core" }
 	],
 	"conflicts" : [
-		{ "name": "SETI-CommunityTechTree" }
+		{ "name": "SETI-CTT" }
 	],
 	"install": [
 		{
