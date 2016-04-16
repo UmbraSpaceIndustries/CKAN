@@ -6,7 +6,7 @@
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Karbonite",
 	"abstract"			: "A newly discovered mineral that has hydrocarbon-like properties and is perfect for processing into a fuel. It's easily mined from the surface, and can be found in liquid or gaseous forms on certain planets.",
-	"license"			: "CC-BY-NC-SA-4.0",
+	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources" : {
 		"homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/80650-105"

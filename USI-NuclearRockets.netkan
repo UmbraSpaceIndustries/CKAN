@@ -6,7 +6,7 @@
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "'Project Orion' Nuclear Pulse Engine",
 	"abstract"			: "Nuclear Pulse Drives for KSP!",
-	"license"			: "CC-BY-NC-SA-4.0",
+	"license"			: "restricted",
 	"release_status"	: "development",
 	"resources": {
 		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121597-alpha-project-orion-nuclear-pulse-engine/",
