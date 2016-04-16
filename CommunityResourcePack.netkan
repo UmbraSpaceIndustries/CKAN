@@ -6,7 +6,7 @@
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Community Resource Pack",
 	"abstract"			: "Common resources for KSP mods",
-	"license"			: "restricted",
+	"license"			: "CC-BY-NC-SA-4.0",
 	"release_status"	: "stable",
 	"resources" : {
 		"homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/83007-105"
