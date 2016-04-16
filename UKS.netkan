@@ -52,7 +52,7 @@
 		{ "name": "MKS"	},
 		{ "name": "OKS" },
 		{ "name": "USI-MKSLite"	},
-		{ "name": "SETI-CTT" }
+		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install" : [
 		{

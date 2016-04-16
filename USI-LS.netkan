@@ -21,7 +21,7 @@
 		}
 	],
 	"conflicts": [
-		{ "name": "SETI-CTT" },
+		{ "name": "SETI-CommunityTechTree" },
 		{ "name": "TACLS" }
 	],
 	"install" : [

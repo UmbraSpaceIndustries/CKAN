@@ -13,7 +13,7 @@
 	},
 	"provides"	   : [ "USI-Tools" ],
 	"conflicts" : [
-		{ "name": "SETI-CTT" }
+		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install" : [
 		{

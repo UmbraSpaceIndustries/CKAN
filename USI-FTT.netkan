@@ -30,7 +30,7 @@
 		}
 	],
 	"conflicts" : [
-		{ "name": "SETI-CTT" }
+		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install" : [
 		{

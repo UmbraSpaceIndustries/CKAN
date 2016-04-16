@@ -19,7 +19,7 @@
 		{ "name": "USI-UKS-Shared" }
 	],
 	"conflicts": [
-		{ "name": "SETI-CTT" },
+		{ "name": "SETI-CommunityTechTree" },
 		{ "name": "UKS" }
 	],
 	"install": [
