@@ -12,7 +12,7 @@
 		"homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/83007-105"
 	},
 	"conflicts" : [
-		{ "name": "SETI-CommunityTechTree" }
+		{ "name": "Kerbalism" }
 	],
 	"install" : [
 		{
