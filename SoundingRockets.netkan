@@ -15,8 +15,7 @@
 		{ "name": "USITools" }
 	],
 	"conflicts" : [
-		{ "name": "SETI-CommunityTechTree" },
-		{ "name": "SurfaceExperimentPack" }
+		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install": [
 	{
