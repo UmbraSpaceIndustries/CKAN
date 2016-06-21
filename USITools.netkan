@@ -19,7 +19,15 @@
 		{
 			"file"	   : "GameData/000_USITools",
 			"install_to" : "GameData"
-		}
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/FX",
+			"install_to" : "GameData"
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/Konstruction",
+			"install_to" : "GameData"
+		}		
 	],
 	"x_last_revision_by": "harryyoung"
 }
