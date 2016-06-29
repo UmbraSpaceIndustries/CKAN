@@ -1,0 +1,30 @@
+{
+	"spec_version"		: 1,
+	"identifier"		: "USI-Core",
+	"author"			: "RoverDude",
+	"$kref"				: "#/ckan/github/BobPalmer/USI_Core",
+	"$vref"				: "#/ckan/ksp-avc",
+	"name"				: "USI Core",
+	"abstract"			: "Kontainers, Reactors and shared tools for USI mods",
+	"license"			: "restricted",
+	"release_status"	: "stable",
+	"resources": {
+		"homepage": "http://bobpalmer.github.io/UmbraSpaceIndustries/"
+	},
+	"depends" : [
+		{ "name" : "USITools" },
+		{ "name" : "CommunityResourcePack" },
+		{ "name" : "FirespitterCore" },
+		{ "name" : "ModuleManager" }
+	],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
+	"install" : [
+		{
+			"file"	   : "GameData/UmbraSpaceIndustries",
+			"install_to" : "GameData"
+		}
+	],
+	"x_last_revision_by": "harryyoung"
+}
