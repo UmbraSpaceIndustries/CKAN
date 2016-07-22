@@ -3,7 +3,7 @@
 	"identifier"		: "USITools",
 	"author"			: "RoverDude",
 	"$kref"				: "#/ckan/github/BobPalmer/UmbraSpaceIndustries",
-	"$vref"				: "#/ckan/ksp-avc",
+	"$vref"				: "#/ckan/ksp-avc/GameData/000_USITools/USITools.version",
 	"name"				: "USI Tools",
 	"abstract"			: "Common libraries for Umbra Space Industries mods",
 	"license"			: "restricted",
