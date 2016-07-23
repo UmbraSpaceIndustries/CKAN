@@ -22,8 +22,9 @@
 	],
 	"install" : [
 		{
-			"file"	   : "GameData/UmbraSpaceIndustries",
-			"install_to" : "GameData"
+			"file"			: "GameData/UmbraSpaceIndustries",
+			"install_to"	: "GameData/UmbraSpaceIndustries",
+			"filter" 		: [ "FX", "Konstruction" ]
 		}
 	],
 	"x_last_revision_by": "harryyoung"
