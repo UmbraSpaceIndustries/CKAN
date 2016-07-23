@@ -22,9 +22,10 @@
 	],
 	"install" : [
 		{
-			"file"	   : "GameData/UmbraSpaceIndustries",
-			"install_to" : "GameData"
+			"file"			: "GameData/UmbraSpaceIndustries",
+			"install_to"	: "GameData",
+			"filter"        : "FX"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "politas"
 }
