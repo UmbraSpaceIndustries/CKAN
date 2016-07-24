@@ -23,7 +23,7 @@
 	"install" : [
 		{
 			"file"			: "GameData/UmbraSpaceIndustries",
-			"install_to"	: "GameData/UmbraSpaceIndustries",
+			"install_to"	: "GameData",
 			"filter" 		: [ "FX", "Konstruction" ]
 		}
 	],
