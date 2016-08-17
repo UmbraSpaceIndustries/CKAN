@@ -19,9 +19,9 @@
 	],
 	"install": [
 	{
-		"file": "GameData/UmbraSpaceIndustries",
-		"install_to": "GameData"
+		"file": "GameData/UmbraSpaceIndustries/SoundingRockets",
+		"install_to": "GameData/UmbraSpaceIndustries"
 	}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "politas"
 }
