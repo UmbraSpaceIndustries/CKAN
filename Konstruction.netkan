@@ -1,6 +1,6 @@
 {
 	"spec_version"		: 1,
-	"identifier"		: "USITools",
+	"identifier"		: "Konstruction",
 	"author"			: "RoverDude",
 	"$kref"				: "#/ckan/github/BobPalmer/Konstruction",
 	"$vref"				: "#/ckan/ksp-avc/GameData/Konstruction/Konstruction.version",
