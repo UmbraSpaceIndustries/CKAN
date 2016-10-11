@@ -12,34 +12,27 @@
 	"resources": {
 		"homepage": "http://forum.kerbalspaceprogram.com/threads/79588"
 	},
-	"comment": "This may be renamed to USI-UKS in the future",
 	"provides": [
 		"MKS",
-		"OKS",
-		"USI-UKS"
 	],
 	"depends" : [
 		{
 			"name": "FirespitterCore",
-			"min_version": "7.0.5398.27328"
 		},
 		{
 			"name": "ModuleManager",
-			"min_version": "2.5.1"
 		},
 		{
 			"name": "USITools",
-			"min_version": "0.4.0"
 		},
 		{
 			"name": "CommunityResourcePack",
-			"min_version": "0.2.3"
 		},
 		{
 			"name": "USI-Core"
 		},
 		{
-			"name": "USI-UKS-Shared"
+			"name": "Konstruction"
 		}
 	],
 	"suggests" : [
@@ -49,17 +42,14 @@
 		}
 	],
 	"conflicts" : [
-		{ "name": "MKS"	},
-		{ "name": "OKS" },
-		{ "name": "USI-MKSLite"	},
 		{ "name": "SETI-CommunityTechTree" }
 	],
 	"install" : [
 		{
-			"find"	   : "UmbraSpaceIndustries/UKS",
+			"find"	   : "UmbraSpaceIndustries/MKS",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
 	"x_netkan_epoch": "1",
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "roverdude"
 }

@@ -1,0 +1,31 @@
+{
+	"spec_version"		: 1,
+	"identifier"		: "USITools",
+	"author"			: "RoverDude",
+	"$kref"				: "#/ckan/github/BobPalmer/Konstruction",
+	"$vref"				: "#/ckan/ksp-avc/GameData/Konstruction/Konstruction.version",
+	"name"				: "Konstruction",
+	"abstract"			: "Weldable docking ports, cranes, magnets, and other construction equipment!",
+	"license"			: "restricted",
+	"release_status"	:"stable",
+	"resources": {
+		"homepage": "http://bobpalmer.github.io/UmbraSpaceIndustries/"
+	},
+	"provides"	   : [ "Konstruction" ],
+	"depends" : [
+		{ "name" : "USITools" },
+		{ "name" : "CommunityResourcePack" },
+		{ "name" : "FirespitterCore" },
+		{ "name" : "ModuleManager" }
+	],
+	"conflicts" : [
+		{ "name": "SETI-CommunityTechTree" }
+	],
+	"install" : [
+		{
+			"file"	   : "UmbraSpaceIndustries/Konstruction",
+			"install_to" : "GameData/UmbraSpaceIndustries"
+		}		
+	],
+	"x_last_revision_by": "harryyoung"
+}
