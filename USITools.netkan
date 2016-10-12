@@ -23,11 +23,7 @@
 		{
 			"find"	   : "UmbraSpaceIndustries/FX",
 			"install_to" : "GameData/UmbraSpaceIndustries"
-		},
-		{
-			"find"	   : "UmbraSpaceIndustries/Konstruction",
-			"install_to" : "GameData/UmbraSpaceIndustries"
 		}		
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "Olympic1"
 }
