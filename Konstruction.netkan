@@ -3,7 +3,7 @@
 	"identifier"		: "Konstruction",
 	"author"			: "RoverDude",
 	"$kref"				: "#/ckan/github/BobPalmer/Konstruction",
-	"$vref"				: "#/ckan/ksp-avc/GameData/Konstruction/Konstruction.version",
+	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Konstruction",
 	"abstract"			: "Weldable docking ports, cranes, magnets, and other construction equipment!",
 	"license"			: "restricted",
@@ -23,11 +23,11 @@
 	],
 	"install" : [
 		{
-			"file"	   : "UmbraSpaceIndustries/Akita",
+			"file"	   : "GameData/UmbraSpaceIndustries/Akita",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		},		
 		{
-			"file"	   : "UmbraSpaceIndustries/Konstruction",
+			"file"	   : "GameData/UmbraSpaceIndustries/Konstruction",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}		
 	],
