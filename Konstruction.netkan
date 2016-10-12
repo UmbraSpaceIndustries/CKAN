@@ -23,9 +23,13 @@
 	],
 	"install" : [
 		{
+			"file"	   : "UmbraSpaceIndustries/Akita",
+			"install_to" : "GameData/UmbraSpaceIndustries"
+		},		
+		{
 			"file"	   : "UmbraSpaceIndustries/Konstruction",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}		
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "Olympic1"
 }
