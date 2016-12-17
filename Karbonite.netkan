@@ -30,7 +30,11 @@
 		{
 			"find"	   : "UmbraSpaceIndustries/Karbonite",
 			"install_to" : "GameData/UmbraSpaceIndustries"
-		}
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/KarbonitePlus",
+			"install_to" : "GameData/UmbraSpaceIndustries"
+		}		
 	],
 	"x_netkan_override" : [
 		{
