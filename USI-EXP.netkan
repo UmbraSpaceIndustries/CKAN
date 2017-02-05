@@ -36,7 +36,15 @@
 		{
 			"find"	   : "UmbraSpaceIndustries/ExpPack",
 			"install_to" : "GameData/UmbraSpaceIndustries"
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/SrvPack",
+			"install_to" : "GameData/UmbraSpaceIndustries"
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/SubPack",
+			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "Blu3wolf"
 }
