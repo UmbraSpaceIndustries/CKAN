@@ -32,17 +32,17 @@
 			"name": "USI-Core"
 		},
 		{
-			"name": "GroundConstruction"
+			"name": "Konstruction"
 		},
 		{
-			"name": "Konstruction"
+			"name": "GroundConstruction-Core"
 		}
 	],
 	"suggests" : [
 		{
 			"name": "USI-LS",
 			"min_version": "v0.1.0"
-		}
+		}		
 	],
 	"conflicts" : [
 		{ "name": "SETI-CommunityTechTree" }
