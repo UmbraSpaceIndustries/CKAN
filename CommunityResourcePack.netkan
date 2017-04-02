@@ -17,5 +17,14 @@
 			"install_to": "GameData"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "dewiniaid",
+	"x_netkan_override": [
+		{
+			"version": "0.5.1.0",
+			"override": {
+				"ksp_version_min": "1.0.0",
+				"ksp_version_max": "1.1.99"
+			}
+		}
+        ]
 }
