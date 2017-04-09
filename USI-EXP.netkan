@@ -42,9 +42,9 @@
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		},
 		{
-			"find"	   : "UmbraSpaceIndustries/SubPack",
-			"install_to" : "GameData/UmbraSpaceIndustries"
+			"find"	   : "UmbraSpaceIndustries/SubPack/Otter",
+			"install_to" : "GameData/UmbraSpaceIndustries/SubPack"
 		}
 	],
-	"x_last_revision_by": "Blu3wolf"
+	"x_last_revision_by": "Olympic1"
 }
