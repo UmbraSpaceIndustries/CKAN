@@ -9,10 +9,13 @@
 	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources": {
-		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92434-105",
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends": [
-		{ "name": "USITools" }
+		{
+			"name": "USITools",
+			"min_version": "v0.9.0.0"
+		}
 	],
 	"conflicts" : [
 		{ "name": "SETI-CommunityTechTree" }
@@ -23,5 +26,5 @@
 		"install_to": "GameData/UmbraSpaceIndustries"
 	}
 	],
-	"x_last_revision_by": "politas"
+	"x_last_revision_by": "DoktorKrogg"
 }

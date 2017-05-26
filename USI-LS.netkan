@@ -2,30 +2,32 @@
 	"spec_version"		: "v1.4",
 	"identifier"		: "USI-LS",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/USI-LS",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/USI-LS",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "USI Life Support",
 	"abstract"			: "UmbraSpaceIndustries take on life support",
 	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources": {
-		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/105202-105"
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends" : [
 		{
 			"name": "ModuleManager",
-			"min_version": "2.5.1"
+			"min_version": "2.7.5"
 		},
 		{
-			"name": "USITools"
+			"name": "USITools",
+			"min_version": "v0.9.0.0"
 		},
 		{
-			"name": "CommunityResourcePack"
+			"name": "CommunityResourcePack",
+			"min_version": "v0.7.0.0"
 		},
 		{
-			"name": "CommunityCategoryKit"
+			"name": "CommunityCategoryKit",
+			"min_version": "v2.0.0.0"
 		}
-		
 	],
 	"conflicts": [
 		{ "name": "SETI-CommunityTechTree" },
@@ -37,5 +39,5 @@
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "DoktorKrogg"
 }

@@ -9,11 +9,17 @@
 	"license"			: "restricted",
 	"release_status"	: "development",
 	"resources": {
-		"homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/121597-alpha-project-orion-nuclear-pulse-engine/",
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends": [
-		{ "name": "USITools" },
-		{ "name": "USI-Core" }
+		{
+			"name": "USITools",
+			"min_version": "v0.9.0.0"
+		},
+		{
+			"name": "USI-Core",
+			"min_version": "v0.4.0.0"
+		}
 	],
 	"conflicts" : [
 		{ "name": "SETI-CommunityTechTree" }
@@ -24,5 +30,5 @@
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "DoktorKrogg"
 }

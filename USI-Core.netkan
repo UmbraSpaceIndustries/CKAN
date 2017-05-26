@@ -2,20 +2,32 @@
 	"spec_version"		: 1,
 	"identifier"		: "USI-Core",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/USI_Core",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/USI_Core",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "USI Core",
 	"abstract"			: "Kontainers, Reactors and shared tools for USI mods",
 	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources": {
-		"homepage": "http://bobpalmer.github.io/UmbraSpaceIndustries/"
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends" : [
-		{ "name" : "USITools" },
-		{ "name" : "CommunityResourcePack" },
-		{ "name" : "FirespitterCore" },
-		{ "name" : "ModuleManager" }
+		{
+			"name": "FirespitterCore",
+			"min_version": "v7.6.0"
+		},
+		{
+			"name": "ModuleManager",
+			"min_version": "2.7.5"
+		},
+		{
+			"name": "USITools",
+			"min_version": "v0.9.0.0"
+		},
+		{
+			"name": "CommunityResourcePack",
+			"min_version": "v0.7.0.0"
+		}
 	],
 	"conflicts" : [
 		{ "name": "SETI-CommunityTechTree" }
@@ -27,5 +39,5 @@
 			"filter" 		: [ "FX", "Konstruction" ]
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "DoktorKrogg"
 }
