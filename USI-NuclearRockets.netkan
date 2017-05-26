@@ -9,7 +9,7 @@
 	"license"			: "restricted",
 	"release_status"	: "development",
 	"resources": {
-		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends": [
 		{
