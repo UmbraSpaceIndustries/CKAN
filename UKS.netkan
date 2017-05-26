@@ -13,7 +13,7 @@
 		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"provides": [
-		"MKS",
+		"MKS"
 	],
 	"depends" : [
 		{
