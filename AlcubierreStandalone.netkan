@@ -9,7 +9,7 @@
 	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources": {
-		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"conflicts" : [
 		{ "name": "SETI-CommunityTechTree" }
