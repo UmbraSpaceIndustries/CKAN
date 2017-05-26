@@ -9,15 +9,33 @@
 	"license"			: "restricted",
 	"release_status"	: "stable",
 	"resources" : {
-		"homepage" : "http://forum.kerbalspaceprogram.com/index.php?/topic/83948-105"
+		"homepage" : "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends" : [
-		{ "name" : "USITools" },
-		{ "name" : "USI-Core" },
-		{ "name" : "CommunityResourcePack" },
-		{ "name" : "FirespitterCore" },
-		{ "name" : "ModuleManager" },
-		{ "name" : "Karbonite" }
+		{
+			"name": "FirespitterCore",
+			"min_version": "v7.6.0"
+		},
+		{
+			"name": "ModuleManager",
+			"min_version": "2.7.5"
+		},
+		{
+			"name": "USITools",
+			"min_version": "v0.9.0.0"
+		},
+		{
+			"name": "CommunityResourcePack",
+			"min_version": "v0.7.0.0"
+		},
+		{
+			"name": "USI-Core",
+			"min_version": "v0.4.0.0"
+		},
+		{
+			"name": "Karbonite",
+			"min_version": "v0.9.0.0"
+		}
 	],
 	"comment" : "This may be renamed to USI-KarbonitePlus in the future",
 	"provides" : [ "USI-KarbonitePlus" ],
@@ -30,5 +48,5 @@
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "harryyoung"
+	"x_last_revision_by": "DoktorKrogg"
 }
