@@ -32,10 +32,10 @@
 			"name": "CommunityResourcePack",
 			"min_version": "0.7.0.0"
 		},
-		{
-			"name": "CommunityCategoryKit",
-			"min_version": "2.0.0.0"
-		},
+        	{
+            		"name": "CommunityCategoryKit",
+            		"min_version": "2.0.0.0"
+        	},
 		{
 			"name": "USI-Core",
 			"min_version": "0.4.0.0"
