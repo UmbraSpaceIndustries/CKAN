@@ -13,6 +13,14 @@
 	},
 	"depends": [
 		{
+			"name": "FirespitterCore",
+			"min_version": "v7.6.0"
+		},
+		{
+			"name": "ModuleManager",
+			"min_version": "2.8.0"
+		},
+		{
 			"name": "USITools",
 			"min_version": "0.9.0.0"
 		},
@@ -26,9 +34,9 @@
 	],
 	"install": [
 		{
-			"find"	   : "UmbraSpaceIndustries/Orion",
+			"find"		: "UmbraSpaceIndustries/Orion",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "DoktorKrogg"
+	"x_last_revision_by": "Olympic1"
 }

@@ -27,6 +27,10 @@
 		{
 			"name": "CommunityResourcePack",
 			"min_version": "0.7.0.0"
+		},
+		{
+			"name": "CommunityCategoryKit",
+			"min_version": "2.0.0.0"
 		}
 	],
 	"conflicts" : [
@@ -36,8 +40,8 @@
 		{
 			"file"			: "GameData/UmbraSpaceIndustries",
 			"install_to"	: "GameData",
-			"filter" 		: [ "FX", "Konstruction" ]
+			"filter" 		: "FX"
 		}
 	],
-	"x_last_revision_by": "DoktorKrogg"
+	"x_last_revision_by": "Olympic1"
 }

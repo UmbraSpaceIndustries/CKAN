@@ -13,10 +13,6 @@
 	},
 	"depends" : [
 		{
-			"name": "FirespitterCore",
-			"min_version": "v7.6.0"
-		},
-		{
 			"name": "ModuleManager",
 			"min_version": "2.8.0"
 		},
@@ -27,10 +23,6 @@
 		{
 			"name": "CommunityResourcePack",
 			"min_version": "0.7.0.0"
-		},
-		{
-			"name": "CommunityCategoryKit",
-			"min_version": "2.0.0.0"
 		}
 	],
 	"conflicts" : [
@@ -38,13 +30,13 @@
 	],
 	"install" : [
 		{
-			"file"	   : "GameData/UmbraSpaceIndustries/Akita",
+			"file"		: "GameData/UmbraSpaceIndustries/Akita",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		},		
 		{
-			"file"	   : "GameData/UmbraSpaceIndustries/Konstruction",
+			"file"		: "GameData/UmbraSpaceIndustries/Konstruction",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}		
 	],
-	"x_last_revision_by": "DoktorKrogg"
+	"x_last_revision_by": "Olympic1"
 }

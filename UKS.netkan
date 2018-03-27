@@ -32,10 +32,10 @@
 			"name": "CommunityResourcePack",
 			"min_version": "0.7.0.0"
 		},
-        	{
-            		"name": "CommunityCategoryKit",
-            		"min_version": "2.0.0.0"
-        	},
+		{
+			"name": "CommunityCategoryKit",
+			"min_version": "2.0.0.0"
+		},
 		{
 			"name": "USI-Core",
 			"min_version": "0.4.0.0"
@@ -60,14 +60,14 @@
 	],
 	"install" : [
 		{
-			"find"	   : "UmbraSpaceIndustries/MKS",
+			"find"		: "UmbraSpaceIndustries/MKS",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		},
 		{
-			"find"	   : "UmbraSpaceIndustries/Karibou",
+			"find"		: "UmbraSpaceIndustries/Karibou",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
 	"x_netkan_epoch": "1",
-	"x_last_revision_by": "DoktorKrogg"
+	"x_last_revision_by": "Olympic1"
 }
