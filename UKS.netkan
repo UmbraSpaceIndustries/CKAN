@@ -43,10 +43,6 @@
 		{
 			"name": "Konstruction",
 			"min_version": "0.2.0.0"
-		},
-		{
-			"name": "GroundConstruction-Core",
-			"min_version": "1.1.2"
 		}
 	],
 	"suggests" : [
@@ -66,6 +62,10 @@
 		{
 			"find"	   : "UmbraSpaceIndustries/Karibou",
 			"install_to" : "GameData/UmbraSpaceIndustries"
+		},
+		{
+			"find"	   : "GroundConstruction",
+			"install_to" : "GameData"
 		}
 	],
 	"x_netkan_epoch": "1",
