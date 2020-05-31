@@ -11,6 +11,9 @@
 	"resources" : {
 		"homepage" : "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
+	"depends": [
+		{ "name": "ModuleManager" }
+	],
 	"install" : [
 		{
 			"file": "GameData/CommunityResourcePack",

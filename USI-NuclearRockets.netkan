@@ -12,6 +12,7 @@
 		"homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/"
 	},
 	"depends": [
+		{ "name": "ModuleManager" },
 		{
 			"name": "USITools",
 			"min_version": "0.9.0.0"
