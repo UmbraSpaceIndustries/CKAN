@@ -67,6 +67,10 @@
 			"find"	   : "UmbraSpaceIndustries/Karibou",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
+		{
+			"find"	   : "UmbraSpaceIndustries/WOLF",
+			"install_to" : "GameData/UmbraSpaceIndustries"
+		}		
 	],
 	"x_netkan_epoch": "1",
 	"x_last_revision_by": "DoktorKrogg"
