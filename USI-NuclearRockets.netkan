@@ -28,6 +28,10 @@
 		{
 			"find"	   : "UmbraSpaceIndustries/Orion",
 			"install_to" : "GameData/UmbraSpaceIndustries"
+		},
+		{
+			"find"	   : "UmbraSpaceIndustries/NuclearRockets",
+			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
 	"x_last_revision_by": "DoktorKrogg"
