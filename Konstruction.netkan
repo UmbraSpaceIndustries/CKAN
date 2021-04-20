@@ -2,7 +2,7 @@
 	"spec_version"		: 1,
 	"identifier"		: "Konstruction",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/Konstruction",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/Konstruction",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Konstruction",
 	"abstract"			: "Weldable docking ports, cranes, magnets, and other construction equipment!",

@@ -2,7 +2,7 @@
 	"spec_version"		: 1,
 	"identifier"		: "CommunityCategoryKit",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/CommunityCategoryKit",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/CommunityCategoryKit",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Community Category Kit",
 	"abstract"			: "Common parts categories for KSP mods",

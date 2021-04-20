@@ -2,7 +2,7 @@
 	"spec_version"		: "v1.4",
 	"identifier"		: "USI-EXP",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/ExplorationPack",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/ExplorationPack",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "USI Exploration Pack",
 	"abstract"			: "PackRat Rover and parts geared towards planetary exploration",

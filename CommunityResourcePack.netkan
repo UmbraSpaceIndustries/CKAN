@@ -2,7 +2,7 @@
 	"spec_version"		: 1,
 	"identifier"		: "CommunityResourcePack",
 	"author"			: "RoverDude",
-	"$kref"				: "#/ckan/github/BobPalmer/CommunityResourcePack",
+	"$kref"				: "#/ckan/github/UmbraSpaceIndustries/CommunityResourcePack",
 	"$vref"				: "#/ckan/ksp-avc",
 	"name"				: "Community Resource Pack",
 	"abstract"			: "Common resources for KSP mods",
