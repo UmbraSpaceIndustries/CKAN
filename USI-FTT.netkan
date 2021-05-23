@@ -27,6 +27,10 @@
 		{
 			"name": "CommunityResourcePack",
 			"min_version": "0.7.0.0"
+		},
+		{
+			"name": "USI-Core",
+			"min_version": "0.4.0.0"
 		}
 	],
 	"conflicts" : [
@@ -34,9 +38,9 @@
 	],
 	"install" : [
 		{
-			"find"	   : "UmbraSpaceIndustries/FTT",
+			"find"		: "UmbraSpaceIndustries/FTT",
 			"install_to" : "GameData/UmbraSpaceIndustries"
 		}
 	],
-	"x_last_revision_by": "DoktorKrogg"
+	"x_last_revision_by": "Olympic1"
 }
